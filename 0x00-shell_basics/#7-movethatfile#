@@ -1,0 +1,2 @@
+#!/bin/bash
+mv y /path/to/tmp/my_first_directory/ \n
