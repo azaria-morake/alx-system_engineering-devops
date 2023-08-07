@@ -1,2 +1,2 @@
 #!/bin/bash
-less /etc/psswd
+less /etc/passwd
