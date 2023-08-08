@@ -1,1 +1,1 @@
-This is a shell variables expansions directory
+This is main README
