@@ -1,1 +1,1 @@
-My 3rd ALX repository
+This is a shell variables expansions directory
