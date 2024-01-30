@@ -2,11 +2,12 @@
 # This script is displaying "Best School" 10 times
 
 variant=10
+n='Best School'
 
 for ((i=1; i<=$variant; i++));
 
 do
 
-echo $"Best School"
+echo $n
 
 done
