@@ -2,9 +2,12 @@
 
 #This bash script prints its own PID
 
-own_pid=$$
+#own_pid=$$
 
-echo $own_pid
+#echo $own_pid
 
-echo
+#echo
 
+# This script  displays its PID.
+
+echo $$
