@@ -1,4 +1,7 @@
-#!/usr/bin/env bash
-# Displays its own PID.
+#!/usr/bin/bash env
 
-echo $$
+#This bash script prints its own PID
+
+own_pid=$$
+
+echo $own_pid
