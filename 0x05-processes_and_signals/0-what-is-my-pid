@@ -5,3 +5,6 @@
 own_pid=$$
 
 echo $own_pid
+
+echo
+
